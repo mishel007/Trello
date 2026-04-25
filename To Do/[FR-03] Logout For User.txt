@@ -1,0 +1,1 @@
+The user can log out to end their session safely. The system properly terminates the session upon logout.

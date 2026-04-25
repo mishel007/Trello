@@ -1,0 +1,1 @@
+The user can update their profile, their information stays up to date, and any changes are saved and visible.

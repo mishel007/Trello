@@ -1,0 +1,1 @@
+The user can log in securely to keep their data protected. Valid credentials are required, and an error message is shown for invalid inputs.

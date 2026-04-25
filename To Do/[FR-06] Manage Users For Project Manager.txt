@@ -1,0 +1,1 @@
+The Project Manager manages users and roles to ensure proper system access control. Users can be created, updated, or deleted, and roles are assigned correctly.
