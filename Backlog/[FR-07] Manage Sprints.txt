@@ -1,0 +1,2 @@
+The Project Manager creates and manages sprints to organize project work efficiently. 
+Sprint name, duration, and other details are saved accurately.

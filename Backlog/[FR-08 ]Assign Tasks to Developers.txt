@@ -1,0 +1,2 @@
+The Project Manager assigns tasks to developers to distribute work properly. 
+Each task includes a deadline, priority, and sprint assignment.

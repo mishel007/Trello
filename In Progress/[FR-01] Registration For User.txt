@@ -1,0 +1,1 @@
+The user can register an account to access the system. Providing valid information allows the account to be created successfully.

@@ -1,0 +1,2 @@
+The Project Manager categorizes tasks to clearly define their priority. 
+Tasks are organized based on priority and complexity.
