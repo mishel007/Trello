@@ -1,0 +1,10 @@
+As a Project Manager (or Admin), I want to manage users and assign roles so that 
+system access is properly controlled.
+
+*Admin can view all users (name, email, role, status)
+
+*Admin can add new user with temporary password
+
+*Admin can edit user role (PM, SM, Developer, PO)
+
+*Admin can activate/deactivate or delete users

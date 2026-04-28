@@ -1,0 +1,8 @@
+As a user, I want to update my profile information (name, email, profile picture) 
+so that my information stays current.
+
+*User can view current name, email, role, and profile picture
+
+*User can edit name, email, and upload new profile picture
+
+*System saves changes and displays updated profile

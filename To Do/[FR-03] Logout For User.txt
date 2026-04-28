@@ -1,0 +1,7 @@
+As any logged-in user, I want to log out of the system so that my session ends securely.
+
+*User clicks “Logout” button from anywhere in the application
+
+*System destroys the session and invalidates the authentication token
+
+*User is redirected to Login page

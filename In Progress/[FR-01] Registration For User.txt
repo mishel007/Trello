@@ -1,1 +1,14 @@
-The user can register an account to access the system. Providing valid information allows the account to be created successfully.
+As a user, I want to create a new account in the system so that I can access the 
+platform.
+
+*User must provide full name, email address, username, password, confirm password, 
+ and optional phone number
+
+*System validates all input fields (unique username/email, strong password, matching
+ confirm password)
+
+*After validation, system sends OTP to registered email or mobile
+
+*Account is created only after successful OTP verification
+
+*User is redirected to Login page upon completion

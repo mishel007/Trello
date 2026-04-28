@@ -1,2 +1,10 @@
-The Project Manager creates and manages sprints to organize project work efficiently. 
-Sprint name, duration, and other details are saved accurately.
+As a Project Manager, I want to create and manage sprints so that project work 
+is organized efficiently.
+
+*User clicks “Create Sprint” button
+
+*User enters sprint name, goal, start date, end date
+
+*System saves sprint and displays in sprint list
+
+*User can edit or delete upcoming sprints only

@@ -1,0 +1,10 @@
+As any system user, I want to log in using my username and password so that 
+I can access my personalized dashboard.
+
+*User enters username and password
+
+*System validates credentials against stored data
+
+*On success, user is redirected to role-specific dashboard
+
+*On failure, error message “Invalid username or password” is shown
