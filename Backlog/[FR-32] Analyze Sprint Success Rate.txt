@@ -1,0 +1,8 @@
+As a Product Owner, I want to analyze sprint success rate over multiple sprints 
+so that I can evaluate project progress.
+
+*Dashboard shows success rate trend line chart
+
+*Success rate = completed story points / planned story points × 100%
+
+*Each sprint is represented as a point on the chart

@@ -1,0 +1,6 @@
+As a Product Owner, I want to review sprint outcomes and summaries so that 
+I can ensure project goals are met.
+
+*User selects completed sprint
+
+*System displays sprint summary: total story points planned vs completed, list of completed/incomplete tasks, success rate

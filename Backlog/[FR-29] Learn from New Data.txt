@@ -1,0 +1,7 @@
+As the System, I need to learn from new data so that prediction accuracy improves 
+over time.
+
+*After each sprint completion, system retrains or fine-tunes the prediction model 
+ with new sprint data
+
+*Model version and accuracy metrics are logged

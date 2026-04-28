@@ -1,0 +1,6 @@
+As a Product Owner, I want to view predictive insights for future features so that 
+I can plan future sprints better.
+
+*System uses historical data to estimate completion time for proposed features
+
+*User can input story points for new features and see predicted sprint completion

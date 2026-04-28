@@ -1,0 +1,8 @@
+As a Product Owner, I want to view reports and analytics so that I can make strategic 
+decisions.
+
+*User can generate summary report by selecting date range
+
+*Report includes overall project progress chart, velocity trend, success rate trend
+
+*Export to PDF

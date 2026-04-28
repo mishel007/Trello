@@ -1,0 +1,8 @@
+As a Product Owner, I want to monitor overall project progress so that I stay 
+informed about development.
+
+*Dashboard shows high-level project health (on track / at risk / delayed)
+
+*Shows number of sprints completed vs remaining
+
+*Shows total story points completed
