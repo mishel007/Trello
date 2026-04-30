@@ -1,0 +1,5 @@
+As a Scrum Master, I want to monitor real-time sprint progress so that I can identify issues early.
+
+Dashboard displays burndown chart, sprint completion percentage, remaining effort
+
+Data refreshes automatically every 5 minutes

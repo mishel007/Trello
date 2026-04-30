@@ -1,0 +1,5 @@
+As a Developer, I want to update task progress percentage so that sprint tracking remains accurate.
+
+User opens a task and enters progress (0–100%) or uses slider
+
+System saves progress and displays on task list and burndown chart

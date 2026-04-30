@@ -1,0 +1,7 @@
+As a Scrum Master, I want the system to identify sprint risks such as overdue tasks and workload imbalance so that delays can be prevented.
+
+System analyzes current sprint data
+
+Highlights tasks overdue >24 hours
+
+Shows workload imbalance (developer with >20% more tasks than average)

@@ -1,0 +1,5 @@
+As a Developer, I want to view sprint details so that I understand overall sprint goals.
+
+User clicks on sprint name from sidebar
+
+System displays sprint name, goal, start/end dates, progress percentage, and list of associated tasks
