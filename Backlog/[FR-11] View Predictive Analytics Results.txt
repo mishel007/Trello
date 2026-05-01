@@ -1,0 +1,7 @@
+As a Project Manager, I want to view predictive analytics results so that I can make better planning decisions.
+
+User selects an active or future sprint
+
+System displays predicted success probability (percentage)
+
+System shows risk factors and recommendations

@@ -1,0 +1,7 @@
+As a Project Manager, I want to view sprint performance reports so that I can evaluate team efficiency.
+
+User selects a completed sprint from dropdown
+
+System displays velocity chart, completion rate (planned vs actual), and accuracy metrics
+
+Reports can be exported as PDF

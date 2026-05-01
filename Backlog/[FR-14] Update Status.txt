@@ -1,0 +1,7 @@
+As a Developer, I want to update task status (To Do, In Progress, In Review, Done) so that progress can be tracked.
+
+User opens a task from “My Tasks”
+
+User selects new status from dropdown
+
+System saves status change and updates task board

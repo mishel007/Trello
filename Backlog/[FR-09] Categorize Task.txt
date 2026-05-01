@@ -1,0 +1,5 @@
+As a Project Manager, I want to categorize tasks by priority (High, Medium, Low) and complexity (High, Medium, Low) so that task priority is clearly defined.
+
+While creating/editing task, user selects priority and complexity
+
+System saves and displays these labels on task cards and list views
