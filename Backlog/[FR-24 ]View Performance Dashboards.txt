@@ -1,0 +1,19 @@
+As a Scrum Master, I want to view performance dashboards so that I can monitor team activity easily and identify any issues quickly.
+
+Dashboard is the landing page after Scrum Master logs in
+
+Dashboard updates dynamically without page refresh
+
+Shows real-time key metrics:
+
+Sprint progress (burndown chart, completion percentage)
+
+Team workload distribution (tasks per developer)
+
+Task completion status (To Do / In Progress / In Review / Done)
+
+Velocity trend over last 3 sprints
+
+Risk indicators (overdue tasks, workload imbalance)
+
+All charts and widgets are interactive (hover for details, click to drill down)

@@ -1,0 +1,7 @@
+As a Scrum Master, I want to receive predictive warnings for high-risk sprints so that I can take preventive actions.
+
+System predicts sprint success probability daily
+
+If probability <50%, sends warning notification to Scrum Master
+
+Warning includes reason and recommended action

@@ -1,0 +1,5 @@
+As a Scrum Master, I want to view team workload distribution chart so that work is balanced among members.
+
+Dashboard shows bar chart of number of tasks/story points per developer
+
+Chart shows assigned, in-progress, and completed counts
