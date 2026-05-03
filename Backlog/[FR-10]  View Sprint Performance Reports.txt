@@ -1,2 +1,3 @@
 The Project Manager views sprint performance reports to evaluate team efficiency.
+
 Reports display metrics such as velocity, completion rate, and accuracy.
