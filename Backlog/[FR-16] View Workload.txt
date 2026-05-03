@@ -1,0 +1,7 @@
+As a Developer, I want to view my workload and deadlines so that I can manage my time efficiently.
+
+Dashboard shows number of assigned tasks (by priority)
+
+Calendar view shows tasks with due dates
+
+System indicates if workload exceeds capacity

@@ -1,2 +1,10 @@
+
 The Project Manager assigns tasks to developers to distribute work properly. 
 Each task includes a deadline, priority, and sprint assignment.
+=
+As a Project Manager, I want to assign tasks to developers so that work is distributed properly.
+
+User selects/create a task
+
+User assigns task to a developer from user list
+

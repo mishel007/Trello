@@ -1,2 +1,9 @@
+
 The Project Manager categorizes tasks to clearly define their priority. 
 Tasks are organized based on priority and complexity.
+
+As a Project Manager, I want to categorize tasks by priority (High, Medium, Low) and complexity (High, Medium, Low) so that task priority is clearly defined.
+
+While creating/editing task, user selects priority and complexity
+
+

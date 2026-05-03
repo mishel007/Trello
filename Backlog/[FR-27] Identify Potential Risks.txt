@@ -1,3 +1,4 @@
+
 As the System, I need to identify and highlight risk factors so that
  users can view potential issues.
 
@@ -10,3 +11,15 @@ As the System, I need to identify and highlight risk factors so that
     Tasks with high complexity and low progress
 
 *Highlights risk factors on dashboard
+
+As the System, I need to identify and highlight risk factors so that users can view potential issues.
+
+System analyzes current sprint for:
+
+Task dependency delays
+
+Individual developer overload
+
+Tasks with high complexity and low progress
+
+Highlights risk factors on dashboard

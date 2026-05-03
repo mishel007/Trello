@@ -1,0 +1,5 @@
+As a Scrum Master, I want to track task completion status so that I can ensure timely delivery.
+
+Task board shows columns: To Do, In Progress, In Review, Done
+
+Completed and pending tasks are clearly shown with counts

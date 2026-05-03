@@ -1,0 +1,7 @@
+As a Project Manager, I want to receive alerts about sprint risks so that I can take early action.
+
+System monitors task delays and workload imbalance
+
+When risk threshold crossed, system sends notification (in-app + email)
+
+Alerts appear on dashboard and notification panel

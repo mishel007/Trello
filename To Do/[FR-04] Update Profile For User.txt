@@ -1,3 +1,4 @@
+
 As a user, I want to update my profile information (name, email, profile picture) 
 so that my information stays current.
 
@@ -6,3 +7,6 @@ so that my information stays current.
 *User can edit name, email, and upload new profile picture
 
 *System saves changes and displays updated profile
+
+The user can update their profile, their information stays up to date, and any changes are saved and visible.
+

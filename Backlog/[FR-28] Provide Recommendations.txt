@@ -1,0 +1,9 @@
+As the System, I need to provide data-driven recommendations so that sprint planning improves.
+
+System generates suggestions such as:
+
+“Reduce story points in next sprint by 20% based on velocity drop”
+
+“Reassign task X to developer Y for better balance”
+
+Recommendations appear on PM dashboard

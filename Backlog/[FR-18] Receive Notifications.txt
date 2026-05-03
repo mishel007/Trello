@@ -1,0 +1,5 @@
+As a Developer, I want to receive real-time notifications about task changes so that I stay updated.
+
+System sends notification when a task is assigned, reassigned, or its due date changes
+
+Notifications appear in-app (toast/popup) and in notification center

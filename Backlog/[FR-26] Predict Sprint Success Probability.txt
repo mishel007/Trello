@@ -1,3 +1,4 @@
+
 As the System, I need to predict sprint success probability as a 
 percentage so that users can see likelihood of success.
 
@@ -6,3 +7,11 @@ percentage so that users can see likelihood of success.
 *Output: success probability (0–100%)
 
 *Prediction is displayed on PM, SM, and PO dashboards
+
+As the System, I need to predict sprint success probability as a percentage so that users can see likelihood of success.
+
+Using trained ML model, system analyzes current sprint progress
+
+Output: success probability (0–100%)
+
+

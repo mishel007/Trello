@@ -1,3 +1,4 @@
+
 As a Project Manager (or Admin), I want to manage users and assign roles so that 
 system access is properly controlled.
 
@@ -8,3 +9,6 @@ system access is properly controlled.
 *Admin can edit user role (PM, SM, Developer, PO)
 
 *Admin can activate/deactivate or delete users
+
+The Project Manager manages users and roles to ensure proper system access control. Users can be created, updated, or deleted, and roles are assigned correctly.
+

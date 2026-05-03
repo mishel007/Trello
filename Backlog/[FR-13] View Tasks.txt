@@ -1,0 +1,7 @@
+As a Developer, I want to view all tasks assigned to me so that I know what to work on.
+
+Developer logs in and clicks “My Tasks”
+
+System displays task list with title, priority, status, due date
+
+Tasks are sorted by due date and priority

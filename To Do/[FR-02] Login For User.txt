@@ -1,3 +1,4 @@
+
 As any system user, I want to log in using my username and password so that 
 I can access my personalized dashboard.
 
@@ -8,3 +9,6 @@ I can access my personalized dashboard.
 *On success, user is redirected to role-specific dashboard
 
 *On failure, error message “Invalid username or password” is shown
+
+The user can log in securely to keep their data protected. Valid credentials are required, and an error message is shown for invalid inputs.
+
